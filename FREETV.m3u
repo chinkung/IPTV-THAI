@@ -386,6 +386,3 @@ https://edge6a.v2h-cdn.com/7hd/7hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="36" tvg-id="PPTV HD.th" tvg-name="PPTV HD" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/R_0022.png",PPTV HD
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 https://edge6a.v2h-cdn.com/7hd/7hd.stream/playlist.m3u8
-
-=======
->>>>>>> a8662b2c6eae2a0a77fe5f9a83c3bd878329af8b
